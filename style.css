@@ -9,18 +9,22 @@ html {
   font-size: 24px;
   color: #262626;
   background-color: #F2F2F2;
+  text-align: center;
 }
 
 body {
   width: 80vw;
   min-width: 1000px;
   margin: 48px auto;
+  width: 75vw;
+  min-width: 200px
 }
 
 .text{
   column-count: 3;
   column-gap: 48px;
   text-align: justify;
+  column-count: 1;
 }
 
 p{
